@@ -1,4 +1,0 @@
-# ninja log v5
-1	304	1608429436453522857	src/libpsflib.a.p/psflib.c.o	32a5beec2aee7f95
-1	325	1608429436443523724	src/libpsflib.a.p/psf2fs.c.o	ad18befbf7b3fcf4
-325	333	1608429436530516181	src/libpsflib.a	fbc4c8833a72407a
