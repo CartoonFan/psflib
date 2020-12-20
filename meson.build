@@ -1,4 +1,4 @@
-project('psflib', 'c', version: '0.0.1', license: 'MIT',
+project('psflib', 'cpp', version: '0.0.1', license: 'MIT',
         default_options: ['optimization=g',
                           'warning_level=3',
                           'cpp_std=c++20',

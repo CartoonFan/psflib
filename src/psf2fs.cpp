@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
-#include "psf2fs.h"
+#include "psf2fs.hpp"
 
 #include <ctype.h>
 #include <stdlib.h>
