@@ -1,0 +1,14 @@
+[
+  {
+    "directory": "/home/jeremiah/workshop/psflib/build",
+    "command": "ccache cc -Isrc/libpsflib.a.p -Isrc -I../src -I../include -fdiagnostics-color=always --coverage -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -Og -g -fPIC -MD -MQ src/libpsflib.a.p/psf2fs.c.o -MF src/libpsflib.a.p/psf2fs.c.o.d -o src/libpsflib.a.p/psf2fs.c.o -c ../src/psf2fs.c",
+    "file": "../src/psf2fs.c",
+    "output": "src/libpsflib.a.p/psf2fs.c.o"
+  },
+  {
+    "directory": "/home/jeremiah/workshop/psflib/build",
+    "command": "ccache cc -Isrc/libpsflib.a.p -Isrc -I../src -I../include -fdiagnostics-color=always --coverage -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -Og -g -fPIC -MD -MQ src/libpsflib.a.p/psflib.c.o -MF src/libpsflib.a.p/psflib.c.o.d -o src/libpsflib.a.p/psflib.c.o -c ../src/psflib.c",
+    "file": "../src/psflib.c",
+    "output": "src/libpsflib.a.p/psflib.c.o"
+  }
+]

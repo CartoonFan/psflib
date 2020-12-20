@@ -1,0 +1,60 @@
+Build started at 2020-12-19T17:57:12.043998
+Main binary: /usr/bin/python
+Build Options: 
+Python system: Linux
+The Meson build system
+Version: 0.56.99
+Source dir: /home/jeremiah/workshop/psflib
+Build dir: /home/jeremiah/workshop/psflib/build
+Build type: native build
+Project name: psflib
+Project version: 0.0.1
+None of 'CC' are defined in the environment, not changing global flags.
+None of 'CFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: ccache cc
+Is cross compiler: False.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: ccache cc /home/jeremiah/workshop/psflib/build/meson-private/sanitycheckc.c -o /home/jeremiah/workshop/psflib/build/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/jeremiah/workshop/psflib/build/meson-private/sanitycheckc.exe
+C compiler for the host machine: ccache cc (gcc 10.2.0 "cc (GCC) 10.2.0")
+C linker for the host machine: cc ld.bfd 2.35.1
+None of 'AR' are defined in the environment, not changing global flags.
+None of 'CC' are defined in the environment, not changing global flags.
+None of 'CFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: ccache cc
+Is cross compiler: False.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: ccache cc /home/jeremiah/workshop/psflib/build/meson-private/sanitycheckc.c -o /home/jeremiah/workshop/psflib/build/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/jeremiah/workshop/psflib/build/meson-private/sanitycheckc.exe
+C compiler for the build machine: ccache cc (gcc 10.2.0 "cc (GCC) 10.2.0")
+C linker for the build machine: cc ld.bfd 2.35.1
+None of 'AR' are defined in the environment, not changing global flags.
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Target machine cpu family: x86_64
+Target machine cpu: x86_64
+Build targets in project: 2
+
+Found ninja-1.10.2.git at /usr/bin/ninja
+None of 'STRIP' are defined in the environment, not changing global flags.
+None of 'STRIP' are defined in the environment, not changing global flags.
