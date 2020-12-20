@@ -25,7 +25,7 @@ THE SOFTWARE.
 #ifndef PSF2FS_H
 #define PSF2FS_H
 
-#include "psflib.h"
+#include "psflib.hpp"
 
 #ifdef __cplusplus
 extern "C" {
